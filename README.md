@@ -40,8 +40,8 @@ For a detailed overview of my skills, projects, and experience, please refer to 
 
 If you have any questions, comments, or would like to collaborate on a project, please don't hesitate to get in touch with me. You can reach me through the following channels:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](link-to-your-LinkedIn-profile)
+- Email: [![LinkedIn](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](link-to-your-GitHub-profile)
 - Telegram: [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/your-Telegram-username)
 
