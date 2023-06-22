@@ -28,7 +28,7 @@ If you have any questions, comments, or would like to collaborate on a project, 
 
 - Email: [![LinkedIn](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](link-to-your-GitHub-profile)
-- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/your-Telegram-username)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](https://github.com/Lykamopia)
+- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/alex94lykam)
 
 I'd love to hear from you and discuss your ideas further. Let's connect and explore the possibilities of working together!
