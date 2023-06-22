@@ -19,8 +19,6 @@ I am particularly interested in web development and have experience with framewo
 
  I am also proficient in tools like
 -  <img src="https://img.shields.io/badge/-Figma-F24E1E" alt="Figma"> for UI/UX design.
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Express
 - 💬 Ask me about Front End Web Development
 
