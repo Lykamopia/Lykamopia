@@ -11,18 +11,14 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 - Addis Ababa, Ethiopia
 
 Skills: 
-HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), 
-CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), 
-JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), 
-PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), 
-C++ ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white), 
-Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-Frameworks: 
-React ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), 
-Vue.js ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-
-Tools and Technologies: 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white),  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white), 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), 
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white), 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white), 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), 
