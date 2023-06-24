@@ -27,7 +27,7 @@ Skills:
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-Currently learning: Express (Node.js framework)
+Currently learning: Express (Node.js framework) ![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
 
 Contact:
 - Email: [![Email](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
@@ -35,4 +35,3 @@ Contact:
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](https://github.com/Lykamopia)
 - Telegram: [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/alex94lykam)
 
-Feel free to reach out to me for front-end web development discussions or collaboration on projects. Let's
