@@ -36,6 +36,7 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 <a href="https://github.com/vuejs">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="130" height="40">
 </a>
+
 ![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
 ![Graphql](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white) 
 ![Hasura](https://img.shields.io/badge/-Hasura-FF5722?logo=hasura&logoColor=white)
