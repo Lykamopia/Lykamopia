@@ -30,7 +30,11 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 </a>
 
 <a href="https://github.com/react">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="150" height="30">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="100" height="20">
+</a>
+
+<a href="https://github.com/express">
+  <img src="https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black" alt="Express" width="120" height="20">
 </a>
 
 <a href="https://github.com/vuejs">
