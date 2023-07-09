@@ -4,12 +4,6 @@ Hi there! 👋
 
 Welcome to my GitHub profile! This repository serves as my portfolio, showcasing my skills and projects in web and mobile application development. I'm a detail-oriented developer based in Addis Ababa, Ethiopia, passionate about solving complex problems and bringing creative ideas to life.
 
-## About Me
-
-- Alhamdu Yajbo
-- Web and Mobile Application Developer
-- Addis Ababa, Ethiopia
-
 ### Skills: 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
@@ -26,9 +20,12 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
 
-Currently learning: Express (Node.js framework) ![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
-
+![Graphql](https://img.shields.io/badge/-Graphql-4479A1?logo=graphql&logoColor=pink) 
+![REST](https://img.shields.io/badge/-REST-217346?logo=rest&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-FCC624?logo=flutter&logoColor=blue)
+![Tailwind](https://img.shields.io/badge/-Tailwind-FCC624?logo=tailwind&logoColor=black)
 Contact:
 - Email: [![Email](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
