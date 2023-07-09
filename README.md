@@ -20,10 +20,12 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 <a href="https://github.com/graphql">
   <img src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white" alt="GraphQL" width="150" height="40">
 </a>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
 <a href="https://github.com/vuejs">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="130" height="40">
 </a>
