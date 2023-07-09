@@ -20,4 +20,5 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](https://github.com/Lykamopia)
 - [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/alex94lykam)
+- [![Twitter](https://img.shields.io/badge/Twitter-Message-blue?logo=twitter&style=social)](https://twitter.com/Alhamdu652659)
 
