@@ -20,24 +20,23 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
 
 <a href="https://github.com/graphql">
   <img src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white" alt="GraphQL" width="150" height="40">
 </a>
 
 <a href="https://github.com/javascript">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="150" height="40">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="20">
 </a>
 
 <a href="https://github.com/react">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="150" height="40">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="150" height="30">
 </a>
 
 <a href="https://github.com/vuejs">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="150" height="40">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="130" height="40">
 </a>
-
+![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
 ![Graphql](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white) 
 ![Hasura](https://img.shields.io/badge/-Hasura-FF5722?logo=hasura&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
@@ -49,6 +48,7 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 ![REST](https://img.shields.io/badge/-REST-217346?logo=rest&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 Contact:
 - Email: [![Email](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
