@@ -21,6 +21,7 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white)&nbsp;](https://github.com/graphql)
 ![Graphql](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white) 
 ![Hasura](https://img.shields.io/badge/-Hasura-FF5722?logo=hasura&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
