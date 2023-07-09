@@ -13,8 +13,8 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 
 ### Contact
 
-- Email: [![Email](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](https://github.com/Lykamopia)
-- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/alex94lykam)
+- [![Email](https://img.shields.io/badge/Email-Message-blue?logo=email&style=social)](mailto:www.alex94lykam@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/alhamdu-yajbo-5aa8b821a)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=social)](https://github.com/Lykamopia)
+- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=social)](https://t.me/alex94lykam)
 
