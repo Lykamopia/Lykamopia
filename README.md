@@ -7,10 +7,6 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
 ### Skills: 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white) 
@@ -25,17 +21,10 @@ Welcome to my GitHub profile! This repository serves as my portfolio, showcasing
   <img src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white" alt="GraphQL" width="150" height="40">
 </a>
 
-<a href="https://github.com/javascript">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="20">
-</a>
-
-<a href="https://github.com/react">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="100" height="20">
-</a>
-
-<a href="https://github.com/express">
-  <img src="https://img.shields.io/badge/-Express-FCC624?logo=express&logoColor=black" alt="Express" width="120" height="20">
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 <a href="https://github.com/vuejs">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" width="130" height="40">
